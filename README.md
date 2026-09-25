@@ -1,2 +1,3 @@
 # jake-sutton
-Static Hosting
+Static Hosting Webpage used for personal development.
+
